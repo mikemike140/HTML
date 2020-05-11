@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title> Michael Vaughan | Resume</title>
+		
+		<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+		
+		
+	</head>
+	
+	
+<body>
+<nav class="navbar navbar-default">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Michael Vaughan</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+      </ul>
+    
+      <ul class="nav navbar-nav navbar-right">
+      <li><a href="personal_statement.html"> Personal Statement</a></li>
+	
+        
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<!--Top Resume-->
+
+<div class="container">
+
+<div class="panel panel-default">
+  <div class="panel-heading"></div>
+	<h3 class="panel-title"><strong>Work Experience</strong></h3>
+  </div>
+ 
+ <div class="panel-body">
+      <div class="col-md-8"><strong>IDENTITY	ACCESS	MANAGEMENT	TECH,	EST-GROUP</strong><br/>
+<p align="justify">• Implemented	Identity access	management	which	included setting up	portals	and	connecting servers</br>
+• Created	 a	 scripts using	 JavaScript	 code	 to	 open	 a	 connection	 to client Active	 Directory	 and	 provision users	 in	 different
+organizational	units</br>
+• Worked closely	with	other	Network	and	Server Administration	teams to	ensure	hardware	availability and uptime</br>
+• Provided detailed	specifications	for	proposed	solutions	including	time	and	scope	involved</br>
+• Correlated data	and	reports	from	various	sources to	inform	decision	making	and	provide	project	metrics</br>
+• Assisted other	department	engineers	with	log	management	and	creating	practical	demonstrations	of	proposed	solutions	and	
+demonstrating	them	to	other	members	of	the	team</br>
+• Managed	firewalls	and	other	access	control;	resolved	issues and	used ticketing	system	to	ensure	consistent	documentation</br>
+• Assisted with	the	analysis,	recommendations	for	corrective	actions	and	resolution	of	problems	within the	software	applications</br>
+• Collaborated with	end	users	to	understand	the	workflow,	gaps	and	vulnerabilities</br>
+• Analyzed current	technologies	used	within	the	company,	created	Technical	Design	Documentation	(TDD)	and	developed steps	
+and	processes	to	improve</br>
+• Documented and	monitored requirements	needed	to	institute	proposed	updates	in	relation	to	customer	experience</br>
+• Worked alongside Agile project	management	teams	to	successfully	monitor	progress	and implementation	of	initiatives</br>
+• Accounted for	possible	project	challenges	or	constraints	to	proactively	manage	challenges with	Access	Control	</br></p>
+	</div>
+	  
+	<div class="col-md-4" align="right"> <em> APRIL	2019	– August	2019</em></div>
+	
+	
+	 <div class="col-md-8"><strong>INTERNSHIP/FULL	TIME COMPUTER	INSTALL	TECHNICIAN,	VIRTUCOM INC.</strong></br>
+<p align="justify">• Configured and	deployed over	1000 laptop/desktops;	set Bios	on	mini	desktops</br>
+• Communicated and	documented technical	information,	kept	records	of	repairs	and	fixes	in	knowledge	base</br>
+• Developed tools	and	technology	to	maintain	computers	at	optimal	levels	and	make	repairs	to computers</br>
+• Assisted computer	users with	setup,	maintenance,	troubleshooting</br>
+• Provided support	for	normal	maintenance	of	upgrades,	and	system	maintenance</br>
+• Installed	and	maintained related	database	software	and	hardware	systems</br></p>
+</div>
+	<div class="col-md-4" align="right"> <em>  May	2018-March	2019</em></div>
+	</div>
+	</div>
+  <br/><br/>
+  
+  
+ <!--Middle Resume--> 
+
+ <div class="container">
+<div class="panel panel-default">
+  <div class="panel-heading">
+		<h3 class="panel-title"><strong>Programming/Technical Skills</strong></h3>
+  </div>
+  <div class="panel-body">
+   
+   <div class="col-md-3"><strong>Front End</strong>
+  	<p align="justify">
+	HTML5</br>
+	CSS</br>
+	JavaScript</br>
+	API</br>
+	URL</br>
+	Photoshop</br>
+	</p></div>
+
+	<div class="col-md-3"><strong>Back-End Skills</strong>
+	<p align="justify">
+	Python</br>
+	Java </br>
+	MySQL</br>
+	SQL</br>
+	</p></div>
+			
+	<div class="col-md-3"><strong>Software Application</strong>
+	<p align="justify">
+	Microsoft Suite</br>
+	Adobe Photoshop</br>
+	Microsoft SQL server </br>
+	VMware</br>
+	One	Identity</br>	
+	Rapid Identity</br>
+	Portals</br>
+	TDD</br>
+	Active	directory</br>
+	Application security development</br>	
+	</div>
+	
+	<div class="col-md-3"><strong>Operating Systems</strong>
+	<p align="justify">
+	Mac</br>
+	Windows XP</br>
+	Gaming	console</br>
+	Apple</br>
+	Android</br>
+	Microsoft</br>
+	</p>
+		
+		
+	</div>
+	</div>
+  
+  </div>
+  </div>
+  
+  <br/><br/>
+ 
+ 
+ <!--End of Reumse-->
+
+<div class="container"> 
+
+
+
+<div class="row">
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+		<h3 class="panel-title"><strong>Education</strong></h3>
+  </div>
+ 
+ <div class="panel-body">
+	<div class="col-md-1"><img src="image/UTA.jpg" height= "50"> </div>
+		<div class="col-md-4"align="middle">
+		<strong>University OF Texas at Arlington</strong></br>
+<em>• Bachelor	of	Science	Degree(B.S)	in	Business Information Systems – Magna Cum Laude<em>
+	<div class="col-md-8" align="right"><em>  December 2018</em></div></br></br>
+
+<em>• CyberArk Level 1 Trustee Certification</em>
+	<div class="col-md-8" align="right"> <em>  Feburary 2020</em></div></br></br>
+		
+<em>• Phi	Delta	Theta	Fraternity<em>
+	<div class="col-md-8" align="right"> <em>  Januray 2015</em></div></br>
+	</div>
+  
+  </div>
+  </div>
+</div>
+</body>
+
+
+<br/><br/>
+	
+		<p>&trade; Michael Vaughan - All Rights Reserved </p>
+	
+</html>
